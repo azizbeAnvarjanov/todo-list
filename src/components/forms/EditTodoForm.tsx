@@ -1,4 +1,4 @@
-import { FormEvent, FC, useState } from 'react'
+import { FormEvent, FC } from 'react'
 
 // todo type
 import { Todo } from '../models/Todo';

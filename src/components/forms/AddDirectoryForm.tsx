@@ -1,4 +1,4 @@
-import React, { FC } from 'react'
+import { FC } from 'react'
 
 // icons
 import { MdClose } from 'react-icons/md';
